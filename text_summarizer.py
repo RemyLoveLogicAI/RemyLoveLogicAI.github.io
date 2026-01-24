@@ -141,4 +141,3 @@ if __name__ == '__main__':
         print("You may need to run: pip install transformers torch (or tensorflow)")
         print("An internet connection is also required for the first run to download the model.")
 
-```
