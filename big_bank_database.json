@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp": "Monday, July 20, 2026, 8:01 AM PDT",
+    "sweep_type": "morning sweep",
+    "target": "JPMorgan Chase (JPM)",
+    "directives": [
+      {
+        "directive": "Verify Calamos/AMG Inflows to JPM",
+        "findings": "Confirmed that Calamos Wealth Management increased its JPM stake by 14.5% in Q1 2026, adding 11,389 shares (total 89,906 shares). Global capital markets are showing favorable trends with approximately $53 billion in new issue activity as of April 2026, supporting consolidation trends in the sector."
+      },
+      {
+        "directive": "Stress-Test JPM Hedging",
+        "findings": "JPM maintains a 'Fortress Balance Sheet' with total assets of $4.42 trillion and a shareholders' equity of $362.4 billion (FY2025). The bank holds $343.3 billion in cash and equivalents. Net margin stands at a robust 31.27%, providing a significant buffer against equity volatility. The bank's debt-to-equity ratio is low at 0.18, and its current ratio of 4.27 indicates exceptional liquidity to support sovereign bond and investment-grade credit hedging strategies."
+      },
+      {
+        "directive": "Contrarian Take on $58B Profits",
+        "findings": "Despite record Q2 2026 revenue of $58 billion and a quarterly profit of $21.2 billion, CEO Jamie Dimon has issued a 'market exuberance' warning. He cites 'shifting risk below the surface,' focusing on geopolitical wars, sticky inflation, and global fiscal deficits. J.P. Morgan Global Research forecasts a 35% probability of a global recession in 2026, suggesting that the record performance may be at or near its peak."
+      }
+    ],
+    "metrics_snapshot": {
+      "price": 341.10,
+      "market_cap": 917260710738,
+      "pe_ratio": 16.58,
+      "roe": "15.74%",
+      "net_margin": "31.27%",
+      "total_assets": "$4.42T",
+      "cash_position": "$343.3B"
+    }
+  }
+]
