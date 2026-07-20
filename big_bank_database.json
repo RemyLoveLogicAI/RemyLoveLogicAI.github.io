@@ -18,9 +18,37 @@
       }
     ],
     "metrics_snapshot": {
-      "price": 341.10,
+      "price": 341.1,
       "market_cap": 917260710738,
       "pe_ratio": 16.58,
+      "roe": "15.74%",
+      "net_margin": "31.27%",
+      "total_assets": "$4.42T",
+      "cash_position": "$343.3B"
+    }
+  },
+  {
+    "timestamp": "Monday, July 20, 2026, 12:01 PM PDT",
+    "sweep_type": "noon sweep",
+    "target": "JPMorgan Chase (JPM)",
+    "directives": [
+      {
+        "directive": "Verify Calamos/AMG Inflows to JPM",
+        "findings": "Midday analysis confirms continued institutional confidence. While some entities like NFSG Corp and MASTERINVEST have trimmed holdings, Calamos Wealth Management's 14.5% Q1 stake increase remains a structural pillar. Capital market activity remains elevated, with JPM Payments revenue up 12% YoY, reinforcing the consolidation and scale advantage."
+      },
+      {
+        "directive": "Stress-Test JPM Hedging",
+        "findings": "The 'Fortress Balance Sheet' continues to support a high credit profile. Current liquidity remains high with a 4.27 current ratio and a massive $343B+ cash reserve. Debt-to-equity at 0.18 remains one of the lowest among global G-SIBs, validating the strategy of using sovereign bonds and IG credit to buffer against the recent -0.77% midday price decline and broader equity volatility."
+      },
+      {
+        "directive": "Contrarian Take on $58B Profits",
+        "findings": "Midday sentiment leans heavily toward caution. Price action (JPM down -0.77% to $338.49) reflects Jamie Dimon's 'tectonic' risk warnings becoming the dominant narrative. Geopolitical tensions in Iran/Ukraine and sticky inflation are being priced in as 'skunks at the party,' signaling that the record $21.2B quarterly profit may indeed represent a cyclical peak (Market Exuberance Signal: High)."
+      }
+    ],
+    "metrics_snapshot": {
+      "price": 338.49,
+      "market_cap": 912540904081,
+      "pe_ratio": 16.5,
       "roe": "15.74%",
       "net_margin": "31.27%",
       "total_assets": "$4.42T",
