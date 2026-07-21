@@ -82,5 +82,33 @@
       "total_assets": "$4.42T",
       "cash_position": "$343.3B"
     }
+  },
+  {
+    "timestamp": "Tuesday, July 21, 2026, 8:01 AM PDT",
+    "sweep_type": "morning sweep",
+    "target": "JPMorgan Chase (JPM)",
+    "directives": [
+      {
+        "directive": "Verify Calamos/AMG Inflows to JPM",
+        "findings": "Institutional activity as of July 21 shows continued support from Calamos Advisors and AMG National Trust. While some funds have adjusted (e.g., NFSG Corp lowering holdings), the core 14.5% Q1 stake increase from Calamos remains a significant validation of long-term value. JPM's role in the $53B+ capital market expansion continues to drive the 'too big to fail' consolidation narrative."
+      },
+      {
+        "directive": "Stress-Test JPM Hedging",
+        "findings": "Mid-morning stress test confirms the 'Fortress Balance Sheet' continues to defend its Aa2 Moody's rating. Total assets are steady at $4.42T with a liquidity-heavy profile (4.27 current ratio). The debt-to-equity ratio remains at a conservative 0.18, allowing for robust hedging through sovereign debt and investment-grade credit to counteract the morning's +0.35% equity volatility."
+      },
+      {
+        "directive": "Contrarian Take on $58B Profits",
+        "findings": "The morning price at $342.29 shows a modest +0.35% rebound, but the 'exuberance' signal remains high. Jamie Dimon's persistent warnings regarding 'tectonic' geopolitical shifts and sticky inflation serve as a stark contrast to the record $21.2B quarterly profit. Analysts are increasingly treating these record earnings as a 'cycle peak' given the 35% recession probability forecast by JPM's own research team."
+      }
+    ],
+    "metrics_snapshot": {
+      "price": 342.29,
+      "market_cap": 922951449049,
+      "pe_ratio": 16.69,
+      "roe": "15.74%",
+      "net_margin": "31.27%",
+      "total_assets": "$4.42T",
+      "cash_position": "$343.3B"
+    }
   }
 ]
