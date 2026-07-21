@@ -62,7 +62,7 @@
     "directives": [
       {
         "directive": "Verify Calamos/AMG Inflows to JPM",
-        "findings": "Closing data for July 20 reinforces the narrative of institutional resilience. Calamos Wealth Management’s 14.5% stake increase remains a key anchor for institutional sentiment. Despite intraday volatility, JPM continues to benefit from its leading role in the $53B+ global capital market activity trend."
+        "findings": "Closing data for July 20 reinforces the narrative of institutional resilience. Calamos Wealth Management’s 14.5% stake increase remains a key anchor for institutional sentiment. Despite intraday volatility, JPM continues to benefit from its role in the $53B+ global capital market activity trend."
       },
       {
         "directive": "Stress-Test JPM Hedging",
@@ -105,6 +105,34 @@
       "price": 342.29,
       "market_cap": 922951449049,
       "pe_ratio": 16.69,
+      "roe": "15.74%",
+      "net_margin": "31.27%",
+      "total_assets": "$4.42T",
+      "cash_position": "$343.3B"
+    }
+  },
+  {
+    "timestamp": "Tuesday, July 21, 2026, 12:01 PM PDT",
+    "sweep_type": "noon sweep",
+    "target": "JPMorgan Chase (JPM)",
+    "directives": [
+      {
+        "directive": "Verify Calamos/AMG Inflows to JPM",
+        "findings": "Midday on July 21 confirms a fresh wave of institutional buying as JPM price climbs to $344.91. Wealthfront Advisers and Independent Financial Group have boosted or initiated positions. This momentum, alongside Calamos Wealth Management's Q1 anchor, reinforces JPM's scale advantage as the bank helps drive record deals (e.g., $60B Iraq deal). Capital market activity remains a primary driver of the structural bull case."
+      },
+      {
+        "directive": "Stress-Test JPM Hedging",
+        "findings": "The 'Fortress Balance Sheet' is operating at peak efficiency. Liquidity ratios remain unmatched with a 4.27 current ratio and $343B in cash reserves. The 0.18 debt-to-equity ratio provides the necessary headroom for JPM to aggressively use sovereign bonds to hedge against the day's +1.12% price surge and any sudden reversals. The Moody's Aa2 rating is fully supported by a net margin of 31.27%."
+      },
+      {
+        "directive": "Contrarian Take on $58B Profits",
+        "findings": "Midday price action at $344.91 (+1.12%) signals renewed market optimism, but contrarian risks are mounting. Jamie Dimon continues to highlight that geopolitical risks (Iran, Ukraine) and 'sticky' inflation are being underestimated by the broader market. Despite record $21.2B quarterly profits, the 'skunk at the party' remains the potential for oil shocks and monetary policy interference, suggesting this rally might be the final leg of an overextended earnings cycle."
+      }
+    ],
+    "metrics_snapshot": {
+      "price": 344.91,
+      "market_cap": 930449199051,
+      "pe_ratio": 16.82,
       "roe": "15.74%",
       "net_margin": "31.27%",
       "total_assets": "$4.42T",
