@@ -166,5 +166,33 @@
       "total_assets": "$4.42T",
       "cash_position": "$343.3B"
     }
+  },
+  {
+    "timestamp": "Wednesday, July 22, 2026, 8:01 AM PDT",
+    "sweep_type": "morning sweep",
+    "target": "JPMorgan Chase (JPM)",
+    "directives": [
+      {
+        "directive": "Verify Calamos/AMG Inflows to JPM",
+        "findings": "Institutional resilience remains high as of Wednesday morning. While Atlas Wealth LLC has initiated a new position, FSA Advisors Inc. trimmed holdings. The core 14.5% stake increase from Calamos (Q1) continues to anchor the institutional base. JPM’s scale in high-value global capital markets, including the $60B Iraq deal trend, maintains its competitive moat."
+      },
+      {
+        "directive": "Stress-Test JPM Hedging",
+        "findings": "Fortress Balance Sheet metrics continue to support a Moody’s Aa2 profile. Liquidity remains exceptionally high with a 4.27 current ratio and $343.3B in cash and equivalents. The 0.18 debt-to-equity ratio provides significant capacity for sovereign bond hedging against the morning's +2.18% price surge and potential macro shocks."
+      },
+      {
+        "directive": "Contrarian Take on $58B Profits",
+        "findings": "Morning price action to $346.27 (+2.18%) reflects continued exuberance, yet Jamie Dimon's warnings about 'increasingly complex' risks (geopolitical turmoil, inflation, and federal fiscal deficits) remain a primary drag. Morningstar's fair value increase to $320 underscores that the current market price of $346+ is heavily leaning into peak-cycle optimism, potentially ignoring the 35% recession probability projected for later in 2026."
+      }
+    ],
+    "metrics_snapshot": {
+      "price": 346.27,
+      "market_cap": 936679343838,
+      "pe_ratio": 16.93,
+      "roe": "15.74%",
+      "net_margin": "31.27%",
+      "total_assets": "$4.42T",
+      "cash_position": "$343.3B"
+    }
   }
 ]
