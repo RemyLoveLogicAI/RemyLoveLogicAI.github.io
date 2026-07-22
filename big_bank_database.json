@@ -138,5 +138,33 @@
       "total_assets": "$4.42T",
       "cash_position": "$343.3B"
     }
+  },
+  {
+    "timestamp": "Tuesday, July 21, 2026, 8:00 PM PDT",
+    "sweep_type": "night sweep",
+    "target": "JPMorgan Chase (JPM)",
+    "directives": [
+      {
+        "directive": "Verify Calamos/AMG Inflows to JPM",
+        "findings": "Closing results for July 21 confirm sustained institutional demand. Calamos Wealth Management's 14.5% Q1 stake increase continues to anchor long-term sentiment, while newer entries from Wealthfront and Independent Financial Group signal broad-based confidence. JPM's leadership in high-value global deals (e.g., Iraq $60B) remains a structural tailwind."
+      },
+      {
+        "directive": "Stress-Test JPM Hedging",
+        "findings": "The 'Fortress Balance Sheet' closed Tuesday at peak liquidity, with a massive $343.3B cash position and a 4.27 current ratio. JPM's 0.18 debt-to-equity ratio remains a global gold standard for G-SIBs, perfectly positioning the bank to manage sovereign bond hedges against any volatility. Moody's Aa2 standing is fully validated by current balance sheet strength."
+      },
+      {
+        "directive": "Contrarian Take on $58B Profits",
+        "findings": "JPM closed at $345.14 (+1.18% for the day), but the 'exuberance signal' remains a primary point of friction. Jamie Dimon's persistent warnings about oil shocks, geopolitical wars, and 'sticky' inflation continue to temper the enthusiasm surrounding record profits. The bank's own internal forecast of 35% recession risk serves as a critical counter-narrative to the current equity rally."
+      }
+    ],
+    "metrics_snapshot": {
+      "price": 345.14,
+      "market_cap": 931069695022,
+      "pe_ratio": 16.83,
+      "roe": "15.74%",
+      "net_margin": "31.27%",
+      "total_assets": "$4.42T",
+      "cash_position": "$343.3B"
+    }
   }
 ]
