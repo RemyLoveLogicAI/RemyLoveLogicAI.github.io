@@ -194,5 +194,33 @@
       "total_assets": "$4.42T",
       "cash_position": "$343.3B"
     }
+  },
+  {
+    "timestamp": "Wednesday, July 22, 2026, 12:01 PM PDT",
+    "sweep_type": "noon sweep",
+    "target": "JPMorgan Chase (JPM)",
+    "directives": [
+      {
+        "directive": "Verify Calamos/AMG Inflows to JPM",
+        "findings": "Midday analysis on Wednesday reinforces structural institutional demand. Despite some market-wide profit-taking signals, JPM's core institutional support from Atlas Wealth and the anchor stake from Calamos remain firm. The bank's solid Q2 performance and positive outlook from analysts, as noted on TradingView, continue to bolster its 'top-ranked' status among investment banks."
+      },
+      {
+        "directive": "Stress-Test JPM Hedging",
+        "findings": "The 'Fortress Balance Sheet' maintains peak defensive posture. Liquidity is rock-solid with a 4.27 current ratio and $343.3B in cash. The extremely low 0.18 debt-to-equity ratio allows JPM to absorb the volatility of the day's +2.63% price move while maintaining effective sovereign bond hedges. Net margins at 31.27% continue to provide an industry-leading cushion."
+      },
+      {
+        "directive": "Contrarian Take on $58B Profits",
+        "findings": "Price action at $347.77 (+2.63%) suggests extreme market exuberance, defying Jamie Dimon's persistent warnings about underestimating geopolitical and fiscal risks. While profits remain at record levels, the 'skunk at the party' (sticky inflation and global deficits) is increasingly being sidelined by price momentum. The widening gap between the market price and Morningstar's $320 fair value estimate signals a potential 'peak cycle' trap for investors."
+      }
+    ],
+    "metrics_snapshot": {
+      "price": 347.77,
+      "market_cap": 936005085744,
+      "pe_ratio": 16.92,
+      "roe": "15.74%",
+      "net_margin": "31.27%",
+      "total_assets": "$4.42T",
+      "cash_position": "$343.3B"
+    }
   }
 ]
